@@ -1,0 +1,18 @@
+{
+  "id": 813,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "doggie818dusdususdsdu8s8usuds",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}

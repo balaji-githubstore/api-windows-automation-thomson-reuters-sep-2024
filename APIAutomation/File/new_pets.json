@@ -1,0 +1,38 @@
+[
+  {
+    "id": 823,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie812",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 833,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie812",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+]
